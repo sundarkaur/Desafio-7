@@ -47,4 +47,10 @@ footer .logo2{
 	    width: 40px;
 }
 
-       
+       .card-title{
+       	color: black;
+       }
+
+       .card-text{
+       	color: black;
+       }
